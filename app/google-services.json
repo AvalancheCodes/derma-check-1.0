@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "402275963418",
+    "project_id": "dermacheck-9025",
+    "storage_bucket": "dermacheck-9025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402275963418:android:f106d18a4e5a74843837a3",
+        "android_client_info": {
+          "package_name": "com.medicalblvd.dermacheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402275963418-0s03t6ui1nvsjthiu52qhehguf7qbp3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medicalblvd.dermacheck",
+            "certificate_hash": "50e19411824f668aedb985fb0f45832eb2597957"
+          }
+        },
+        {
+          "client_id": "402275963418-o0gml9q0e9oqlq0567hs09gbu3m2r9jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB56dRJ-PgKnChbONqSHwJjuxJikXlgsEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402275963418-o0gml9q0e9oqlq0567hs09gbu3m2r9jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
